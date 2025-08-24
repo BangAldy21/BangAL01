@@ -1,4 +1,4 @@
-import Dock from "./Dock/Dock";
+import Dock from "./styles/Dock.css";
 import { VscHome, VscArchive, VscAccount } from "react-icons/vsc";
 
 const Footer = () => {
